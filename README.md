@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markbogolyubov
-- 👀 I’m interested in Front-end developing
+- 👀 I’m interested in Front-end development
 - 🌱 I’m currently learning html, css, JavaScript
 
 <!---
